@@ -1,3 +1,3 @@
 # eventsapp
 
-![][./assets/design.png]
+![][design.png]
